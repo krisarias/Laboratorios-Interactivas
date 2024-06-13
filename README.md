@@ -1,6 +1,7 @@
 # Blog con Comentarios - Proyecto Laravel
 
-Este es un proyecto de blog desarrollado en Laravel que permite a los usuarios publicar artículos y dejar comentarios en ellos.
+Este es un proyecto de blog desarrollado en Laravel que permite a los usuarios publicar artículos y dejar comentarios en ellos desarrollado para el curso Desarrollo de Aplicaciones Interactivas II. 
+(falta carpetas node_modules y vendor)
 
 ## Requisitos
 
