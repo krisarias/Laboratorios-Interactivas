@@ -42,9 +42,7 @@ php artisan key:generate
 DB_CONNECTION=mysql
 DB_HOST=127.0.0.1
 DB_PORT=3306
-DB_DATABASE=nombre_de_tu_base_de_datos
-DB_USERNAME=nombre_de_usuario
-DB_PASSWORD=contraseña
+DB_DATABASE=
 ```
 
 6. Ejecuta las migraciones de la base de datos para crear las tablas necesarias:
